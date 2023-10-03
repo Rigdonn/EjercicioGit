@@ -1,0 +1,5 @@
+git init
+touch "nombreDelArchivo.txt" para crear el archivo
+git add "nombreDelArchivo.txt"
+git commit -m "NombreDelCommit"
+git push
